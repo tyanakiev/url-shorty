@@ -27,6 +27,9 @@ FastAPI (Async)
 │  
 └── Docker Compose orchestration  
 
+<img width="1536" height="1024" alt="04c03c7f-cbb5-4023-a758-b119804c7896" src="https://github.com/user-attachments/assets/ec259989-5eeb-44ad-95d7-b9a8bdcec9d5" />
+
+
 **Request Flow**
 1. Client sends a long URL → `/api/shorten`  
 2. The API generates a short code (Base62)  
